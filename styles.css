@@ -141,6 +141,17 @@ position: relative;
 	color: lightseagreen;
 }
 
+.img-text-wrapper .subtitle .more-info a{
+	transition: 1s;		
+	font-weight: 400;
+	color: transparent;
+}
+
+.img-text-wrapper:hover .subtitle .more-info a{
+	font-weight: 400;
+	color: blue;
+}
+
 .img-darken {
 	transition: 1s;
 	filter: brightness(10%);
