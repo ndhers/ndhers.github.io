@@ -120,8 +120,8 @@ position: relative;
  	align-items: center;
 	height: 100%;
 	text-align: center;
-	padding-left: 100px;
-	padding-right: 100px; 
+	padding-left: 60px;
+	padding-right: 60px; 
 }
 
 .logo-wrapper img {
@@ -132,12 +132,12 @@ position: relative;
 
 .img-text-wrapper .subtitle {
 	transition: 1s;		
-	font-weight: 600;
+	font-weight: 400;
 	color: transparent;
 }
 
 .img-text-wrapper:hover .subtitle {
-	font-weight: 600;
+	font-weight: 400;
 	color: lightseagreen;
 }
 
